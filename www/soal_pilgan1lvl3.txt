@@ -1,0 +1,48 @@
+1;
+camber negatif;
+camber positif;
+Caster negatif;
+caster positif;
+|
+2;
+camber negatif;
+camber positif;
+Caster negatif;
+caster positif;
+|
+3;
+kekeliruan menyetel tie rod;
+sudut toe in terlalu besar;
+sudut toe out terlalu besar;
+kerusakan pada sistem suspensi;
+|
+4;
+kekeliruan menyetel tie rod;
+sudut toe in terlalu besar;
+sudut toe out terlalu besar;
+kerusakan pada sistem suspensi;
+|
+2;
+kekeliruan menyetel tie rod;
+sudut toe in terlalu besar;
+sudut toe out terlalu besar;
+kerusakan pada sistem suspensi;
+|
+3;
+camber negatif;
+camber positif;
+Caster negatif;
+caster positif;
+|
+4;
+camber negatif;
+camber positif;
+Caster negatif;
+caster positif;
+|
+3;
+kekeliruan menyetel tie rod;
+sudut toe in terlalu besar;
+sudut toe out terlalu besar;
+kerusakan pada sistem suspensi;
+|

@@ -1,0 +1,48 @@
+5;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
+6;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
+2;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
+3;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
+1;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
+4;
+camber;
+Caster;
+toe-in;
+toe-out;
+stering axis inclination;
+turning radius;
+|
